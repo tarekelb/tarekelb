@@ -7,5 +7,5 @@
 - Angular ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
 
 ## Stats
-![Vos Stats](https://github-readme-stats.vercel.app/api?username=[VotreNomUtilisateurGitHub]&show_icons=true)
-![Langages les Plus Utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=[VotreNomUtilisateurGitHub]&layout=compact)
+![Vos Stats](https://github-readme-stats.vercel.app/api?username=tarekelb&show_icons=true)
+![Langages les Plus Utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=tarekelb&layout=compact)

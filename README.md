@@ -6,7 +6,6 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
 
-
 ## Stats
 
 ![Langages les Plus Utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=tarekelb&layout=compact&show_icons=true&theme=tokyonight)
